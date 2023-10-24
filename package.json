@@ -1,0 +1,14 @@
+{
+  "name": "wek-7-homework",
+  "version": "1.0.0",
+  "description": "This is a connections lab project to learn and practicing using POST requests to send data to MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kami Karras",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
